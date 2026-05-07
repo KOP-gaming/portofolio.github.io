@@ -9,7 +9,8 @@ future plans are in the works to add a boss like mechanic for a third hell level
 I also plan on working on music to accompany each level and am thinking about adding a speedrun mode  with a  built in timer.
 
 ---
-![red1.png](:/d1f9a7aeb58f40e2874d3e0ead9e00d1)
+![red1.png](images/red1.png)
+![red2.png](images/red2.png)
 
 
 ---
@@ -28,8 +29,8 @@ planned things for this game are
 - [ ] art
 
 ---
-![687594638fd14fcef3ac129c6324413e.png](:/f4802d2f294749e4bb2c86c1830dde0f)
-![98b086beaa2e0f0546fc4855cdd38d4f.png](:/223404679a844ddab9ecc34ef7f3b362)
+![puzzle1.png](images/puzzle1.png)
+![puzzle2.png](images/puzzle2.png)
 
 ---
 
@@ -40,8 +41,8 @@ in singleplayer mode your goal is to just survive as many layers as possible whi
 in both single and multiplayer you can choose to not explore the entire dungeon but instead try to go to the boss room in the most direct route possible however this does mean that you'll loose out on the bonsu you get for completing the dungeon. This bonus is important as it mmight give you the edge you need to win the game.
 
 ---
-![418791d07bebefff3c15975fea299be7.png](:/23be237c8dfa473d857a65102c309d59)
-![10d53e49e67f920536659ac743ea7db4.png](:/f71e40f19af440229f78dd4e090ff70d)
+![card1.png](images/card1.png)
+![card2.png](images/card2.png)
 
 ---
 
